@@ -38,10 +38,11 @@ USE CASE DIAGRAM:
 
 CLASS DIAGRAM:
 
+<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/b63e239b-6eaa-464e-800f-59c9cc9d8677" />
 
 SEQUENCE DIAGRAM:
+<img width="1917" height="1001" alt="image" src="https://github.com/user-attachments/assets/116dcd68-b342-4445-a8bd-7145d0e301de" />
 
-<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/b63e239b-6eaa-464e-800f-59c9cc9d8677" />
 
 COMMUNICATION DIAGRAM:
 
@@ -54,7 +55,6 @@ ACTIVITY DIAGRAM:
 PACKAGE DIAGRAM:
 <img width="1917" height="1000" alt="image" src="https://github.com/user-attachments/assets/a2e91c5d-0f6c-48b1-a3fd-566a58a89d22" />
 
-<img width="842" height="497" alt="image" src="https://github.com/user-attachments/assets/3e1e9f82-ad8c-48d1-a27d-3a536c20de3a" />
 
 
 # RESULT:
