@@ -34,7 +34,7 @@ To study the problem statement, SRS document and draw all the UML diagrams of AT
 
 USE CASE DIAGRAM:
 
-![Uploading image.png…]()
+<img width="1047" height="876" alt="image" src="https://github.com/user-attachments/assets/b2e1815e-7d39-4437-8e26-078520af57d1" />
 
 CLASS DIAGRAM:
 
